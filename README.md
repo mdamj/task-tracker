@@ -4,7 +4,7 @@ A full-stack Task Management Application built using Next.js and Supabase, featu
 
 LIVE DEMO:
 
-Deployed URL: (Add your Vercel link here)
+Deployed URL: https://task-tracker-flax-zeta.vercel.app/
 
 GitHub Repo: https://github.com/mdamj/task-tracker
 
